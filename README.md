@@ -63,11 +63,6 @@ Ouvrez votre navigateur sur l'URL indiquée (ex: **http://localhost:5173**).
 
 ## 🎥 Démonstration
 
-[![Voir la vidéo de démonstration](https://img.youtube.com/vi/PLACEHOLDER_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+le lien de drive vers le video "https://drive.google.com/drive/folders/105pRhvAfl2GK8m-VqvlAZv4QFig7uL5X?usp=drive_link"
 
-*(Lien vers la vidéo de démonstration à insérer ici)*
 
-## 📸 Captures d'écran
-
-*(Optionnel : Insérez ici des images de l'interface)*
-"# ProjetSOA" 
