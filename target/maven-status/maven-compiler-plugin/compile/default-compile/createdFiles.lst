@@ -1,0 +1,7 @@
+com\poly\RestRouter.class
+com\poly\Person.class
+com\poly\AppConfig.class
+com\poly\ConnexionDB.class
+com\poly\CORSFilter.class
+com\poly\PersonService.class
+com\poly\PersonServiceImpl.class
