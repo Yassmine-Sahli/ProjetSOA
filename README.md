@@ -1,4 +1,4 @@
-# 🚀 Gestion des Personnes - REST & React
+#  Gestion des Personnes - REST & React
 
 Une application web complète permettant de gérer une liste de personnes (CRUD : Créer, Lire, Mettre à jour, Supprimer). Ce projet démontre l'intégration entre une API RESTful classique en Java et un frontend moderne en React.
 
